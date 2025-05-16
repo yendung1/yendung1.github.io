@@ -1,3 +1,3 @@
 function showAlert() {
-  alert("Bạn đã nhấn nút thành công!");
+  alert("Chúng tôi đang phát triển!");
 }
